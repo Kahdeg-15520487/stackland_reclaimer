@@ -1,0 +1,13 @@
+{
+  "id": "reclaimermod_blueprint_reclaimer",
+  "nameTerm": "reclaimermod_reclaimer_name",
+  "group": "Building",
+  "subprints": [
+    {
+      "RequiredCards": "iron_bar, flint, goop, poop",
+      "ResultCard": "reclaimermod_reclaimer",
+      "Time": 5,
+      "StatusTerm": "reclaimermod_reclaimer_status"
+    }
+  ]
+}

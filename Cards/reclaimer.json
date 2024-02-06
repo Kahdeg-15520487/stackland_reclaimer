@@ -1,0 +1,9 @@
+{
+  "id": "reclaimermod_reclaimer",
+  "nameTerm": "reclaimermod_reclaimer_name",
+  "descriptionTerm": "reclaimermod_reclaimer_description",
+  "value": 5,
+  "type": "structures",
+  "icon": "card_reclaimer.png",
+  "script": "Reclaimer.Sources.Reclaimer"
+}

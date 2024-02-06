@@ -3,12 +3,14 @@ using System;
 using System.Collections;
 using UnityEngine;
 
-namespace ExampleModNS
+namespace Reclaimer
 {
-    public class ExampleMod : Mod
+    public class ReclaimerMod : Mod
     {
+        public static ModLogger L;
         public override void Ready()
         {
+            L = Logger;
             Logger.Log("Ready!");
         }
     }
